@@ -1,0 +1,105 @@
+{
+    "quiz": [
+      {
+        "question": "Who is the main protagonist in the God of War game series?",
+        "options": ["Ares", "Kratos", "Zeus", "Odin"],
+        "answer": "Kratos"
+      },
+      {
+        "question": "What is the real name of Iron Man?",
+        "options": ["Tony Stark", "Bruce Wayne", "Clark Kent", "Peter Parker"],
+        "answer": "Tony Stark"
+      },
+      {
+        "question": "Which DC hero is known as the 'Dark Knight'?",
+        "options": ["Superman", "Batman", "Green Lantern", "Aquaman"],
+        "answer": "Batman"
+      },
+      {
+        "question": "What are Optimus Prime’s last words in Transformers: Revenge of the Fallen?",
+        "options": ["I am Optimus Prime", "You left me no choice", "Give me your face", "Till all are one"],
+        "answer": "I am Optimus Prime"
+      },
+      {
+        "question": "Which Infinity Stone is hidden on Vormir?",
+        "options": ["Mind Stone", "Time Stone", "Soul Stone", "Power Stone"],
+        "answer": "Soul Stone"
+      },
+      {
+        "question": "Which Norse god is Kratos’ son in God of War (2018)?",
+        "options": ["Baldur", "Thor", "Loki", "Tyr"],
+        "answer": "Loki"
+      },
+      {
+        "question": "What is the name of the AI in Tony Stark’s suit after J.A.R.V.I.S.?",
+        "options": ["Friday", "Karen", "Edith", "Vision"],
+        "answer": "Friday"
+      },
+      {
+        "question": "Which Transformer is known for being a Camaro in the movies?",
+        "options": ["Optimus Prime", "Ironhide", "Bumblebee", "Starscream"],
+        "answer": "Bumblebee"
+      },
+      {
+        "question": "What is Wonder Woman's real name?",
+        "options": ["Diana Prince", "Kara Zor-El", "Barbara Minerva", "Selina Kyle"],
+        "answer": "Diana Prince"
+      },
+      {
+        "question": "Who kills Thanos in Avengers: Endgame?",
+        "options": ["Thor", "Iron Man", "Scarlet Witch", "Captain America"],
+        "answer": "Iron Man"
+      },
+      {
+        "question": "Which DC character is known for his super speed?",
+        "options": ["Flash", "Green Arrow", "Cyborg", "Martian Manhunter"],
+        "answer": "Flash"
+      },
+      {
+        "question": "What is Kratos’ weapon in the original God of War games?",
+        "options": ["Leviathan Axe", "Blades of Chaos", "Spear of Destiny", "Hammer of Olympus"],
+        "answer": "Blades of Chaos"
+      },
+      {
+        "question": "Who is the main antagonist in the first Avengers movie?",
+        "options": ["Ultron", "Thanos", "Loki", "Red Skull"],
+        "answer": "Loki"
+      },
+      {
+        "question": "Which Transformer can transform into a fighter jet?",
+        "options": ["Bumblebee", "Ratchet", "Starscream", "Jazz"],
+        "answer": "Starscream"
+      },
+      {
+        "question": "What is Superman’s home planet?",
+        "options": ["Mars", "Earth", "Krypton", "Zenn-La"],
+        "answer": "Krypton"
+      },
+      {
+        "question": "Which Marvel character uses a vibranium shield?",
+        "options": ["Iron Man", "Captain America", "Hawkeye", "Winter Soldier"],
+        "answer": "Captain America"
+      },
+      {
+        "question": "In which game does Kratos fight Thor?",
+        "options": ["God of War III", "God of War: Ragnarok", "God of War (2018)", "God of War: Ascension"],
+        "answer": "God of War: Ragnarok"
+      },
+      {
+        "question": "What metal is used to make Wolverine’s claws?",
+        "options": ["Titanium", "Vibranium", "Adamantium", "Steel"],
+        "answer": "Adamantium"
+      },
+      {
+        "question": "What is the name of Thor’s hammer?",
+        "options": ["Gungnir", "Stormbreaker", "Mjolnir", "Leviathan"],
+        "answer": "Mjolnir"
+      },
+      {
+        "question": "Who leads the Autobots?",
+        "options": ["Megatron", "Optimus Prime", "Ironhide", "Wheeljack"],
+        "answer": "Optimus Prime"
+      }
+    ]
+  }
+  
