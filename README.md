@@ -1,6 +1,6 @@
 # Simple-JavaScript-Projects
 
-# 🎮 Node.js Console Projects Collection
+# 🎮 JavaScript Console Projects Collection
 
 A collection of fun and interactive command-line applications built purely in JavaScript, using Node.js as the runtime environment. All projects are designed to run in the terminal and use the prompt-sync package for simple and synchronous user input.
 
@@ -73,14 +73,14 @@ A functional calculator that performs basic arithmetic operations like addition,
 An interactive quiz where the user chooses how many questions to answer. The app loads questions from a JSON file (Quiz.JSON) and tracks the score and time taken.
 
 * Features:
-* A dynamic quiz engine where:
 
-- The user selects the number of questions
-- Questions are randomly pulled from a Quiz.json file
-
-* At the end, the user sees:
-- Total correct answers
-- Time taken to complete the quiz
+  * A dynamic quiz engine where:
+      - The user selects the number of questions
+      - Questions are randomly pulled from a Quiz.json file
+  
+  * At the end, the user sees:
+      - Total correct answers
+      - Time taken to complete the quiz
 
 ---
 
